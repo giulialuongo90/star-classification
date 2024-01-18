@@ -1,4 +1,12 @@
-# star-classification
+# Star classification
+
+The analysis includes:
+- descriptive statistics
+- data preparation, outliers management
+- correlation matrix
+- classification: 
+  - Random forest
+  - Naive Bayes
 
 The dataset examined contains data from 100,000 space observations made by the SDSS (Sloan Digital Sky Survey). Each observation is described by 17 attributes and a variable class that identify it as a star, galaxy, or quasar. The dataset has the following FEATURES:
 
